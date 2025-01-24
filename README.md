@@ -5,3 +5,7 @@ This repository contains SQL-based analysis of the Chinook database, a sample da
 
 # How It Works
 This repository uses the Chinook database, which is a sample database for music store management. The analysis is conducted with SQL queries, and output is provided in `.rpt` formats.
+
+## Benim rapor sayfamın bir görüntüsü
+
+! (Main Page) ("C:\Users\EXCALIBUR\Desktop\Çalışmalar\Chinook_DB\Chinook\main page.png")
