@@ -6,29 +6,31 @@ This repository contains SQL-based analysis of the Chinook database, a sample da
 # How It Works
 This repository uses the Chinook database, which is a sample database for music store management. The analysis is conducted with SQL queries, and output is provided in `.rpt` formats.
 
-## Power BI Görselleri
+## Power BI Visuals
 
-### Görsel 1: Genel Bakış
+### Visual 1: Overview
 ![Genel Bakış](images/main%20page.png)
 
-Bu görsel, raporun ana sayfasını ve genel yapısını göstermektedir.
+This visual shows the main page and the general structure of the report.
 
-### Görsel 2: Genre Filtreleme
+### Visual 2: Genre Filtering
 ![Genre Filtreleme](images/2.png)
 
-Bu görselde, **Genre Names** tablosundan "Heavy Metal" seçildiğinde, 2. tabloda yalnızca "Heavy Metal" türünde müzik yapan sanatçıların bilgileri gösterilmektedir.
+In this visual, when "Heavy Metal" is selected from the **Genre Names** table, only the information of artists who produce "Heavy Metal" music is displayed in the second table.
 
-### Görsel 3: Gelir Dağılımı
+### Visual 3: Revenue Distribution
 ![Gelir Dağılımı](images/Ekran%20görüntüsü%202025-01-23%20231041.png)
 
-Bu görsel, her ülke bazında toplam faturalandırma sayılarını detaylı şekilde göstermektedir.
+This visual provides detailed information about the total invoice counts per country.
 
-### Görsel 4: En İyi 5 Müşteri
-![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
-
-### Görsel 5: Genre ve Yıl Filtrelemesi
+### Visual 4: Top 5 Customers
 ![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
 
-Bu görselde, seçilen **Genre** ve **Yıl** filtrelerine göre ilgili müzik türü ve yıllara ait veriler detaylandırılmıştır.
+This visual displays the top 5 customers with the highest revenue.
+
+### Visual 5: Genre and Year Filtering
+![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
+
+In this visual, the selected **Genre** and **Year** filters highlight the corresponding data for the chosen music genres and years.
 
 
