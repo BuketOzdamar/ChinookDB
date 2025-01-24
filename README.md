@@ -24,10 +24,10 @@ Bu görselde, **Genre Names** tablosundan "Heavy Metal" seçildiğinde, 2. tablo
 Bu görsel, her ülke bazında toplam faturalandırma sayılarını detaylı şekilde göstermektedir.
 
 ### Görsel 4: En İyi 5 Müşteri
-![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
+![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
 
 ### Görsel 5: Genre ve Yıl Filtrelemesi
-![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%2025-01-23%231216.png)
+![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
 
 Bu görselde, seçilen **Genre** ve **Yıl** filtrelerine göre ilgili müzik türü ve yıllara ait veriler detaylandırılmıştır.
 
