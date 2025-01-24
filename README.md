@@ -8,4 +8,4 @@ This repository uses the Chinook database, which is a sample database for music 
 
 ## Benim rapor sayfamın bir görüntüsü
 
-![Uploading main page.png…]()
+! (Main Page) ("C:\Users\EXCALIBUR\Desktop\Çalışmalar\Chinook_DB\Chinook\main page.png")
