@@ -1,18 +1,12 @@
 import pandas as pd
 import streamlit as st
 
-# Veriyi yükleme
-df = pd.read_excel(r"C:\Users\EXCALIBUR\Desktop\Çalışmalar\Chinook_DB\Chinook\data.xlsx")
-
 # GitHub'dan veri yükleme
 url = 'https://raw.githubusercontent.com/BuketOzdamar/ChinookDB/main/data.xlsx'
 df = pd.read_excel(url)
 
-# Veriyle işlem yapma
-st.write(df)
 
-
-def get_recommendations_with_previous_songs(customer_name, genre):
+def get_recommendations_with_previous_songs(customer_name, genre_name):
     # Kullanıcının önceki dinlediği şarkıları çek
     previous_songs = df[df['CustomerName'] == customer_name]
     
@@ -20,7 +14,7 @@ def get_recommendations_with_previous_songs(customer_name, genre):
     previous_songs_list = previous_songs[previous_songs['GenreName'] == genre_name]
 
     # Seçilen türdeki öneri şarkıları alalım
-    genre_songs = df[df['GenreName'] == genre]
+    genre_songs = df[df['GenreName'] == genre_name]
     
     # Kullanıcıya önerilen şarkıları almak için filtrele
     recommendations = genre_songs[genre_songs['CustomerName'] != customer_name]
@@ -37,6 +31,7 @@ st.title("Müzik Öneri Uygulaması")
 unique_names = df['CustomerName'].unique()
 customer_name = st.selectbox("Kullanıcı Adı", unique_names)
 
+# Müzik türleri için seçim yap
 unique_genre = df['GenreName'].unique()
 genre_name = st.selectbox("Müzik Türü", unique_genre)
 
