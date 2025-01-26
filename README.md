@@ -33,4 +33,11 @@ In this visual, when "Heavy Metal" is selected from the **Genre Names** table, o
 
 In this visual, the selected **Genre** and **Year** filters highlight the corresponding data for the chosen music genres and years.
 
+# Streamlit Music Recommendation App
+
+This repository contains a Streamlit app that provides music recommendations. The app can be accessed at the following link:
+
+[App Link](https://chinookdb-cx9k9otd4gbsnbqgvh5y4g.streamlit.app/)
+
+
 
