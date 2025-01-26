@@ -13,20 +13,20 @@ This repository uses the Chinook database, which is a sample database for music 
 
 This visual shows the main page and the general structure of the report.
 
-### Visual 2: Genre Filtering
-![Genre Filtreleme](images/2.png)
-
-In this visual, when "Heavy Metal" is selected from the **Genre Names** table, only the information of artists who produce "Heavy Metal" music is displayed in the second table.
-
-### Visual 3: Revenue Distribution
+### Visual 2: Revenue Distribution
 ![Gelir Dağılımı](images/Ekran%20görüntüsü%202025-01-23%20231041.png)
 
 This visual provides detailed information about the total invoice counts per country.
 
-### Visual 4: Top 5 Customers
+### Visual 3: Top 5 Customers
 ![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
 
 This visual displays the top 5 customers with the highest revenue.
+
+### Visual 4: Genre Filtering
+![Genre Filtreleme](images/2.png)
+
+In this visual, when "Heavy Metal" is selected from the **Genre Names** table, only the information of artists who produce "Heavy Metal" music is displayed in the second table.
 
 ### Visual 5: Genre and Year Filtering
 ![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
