@@ -19,7 +19,7 @@ This visual shows the main page and the general structure of the report.
 This visual provides detailed information about the total invoice counts per country.
 
 ### Visual 3: Top 5 Customers
-![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
+![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
 
 This visual displays the top 5 customers with the highest revenue.
 
@@ -29,7 +29,7 @@ This visual displays the top 5 customers with the highest revenue.
 In this visual, when "Heavy Metal" is selected from the **Genre Names** table, only the information of artists who produce "Heavy Metal" music is displayed in the second table.
 
 ### Visual 5: Genre and Year Filtering
-![En İyi 5 Müşteri](images/Ekran%20görüntüsü%202025-01-23%20231114.png)
+![Genre ve Yıl Filtrelemesi](images/Ekran%20görüntüsü%202025-01-23%20231216.png)
 
 In this visual, the selected **Genre** and **Year** filters highlight the corresponding data for the chosen music genres and years.
 
