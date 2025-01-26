@@ -1,0 +1,4 @@
+scikit-learn
+pandas
+streamlit
+openpyxl  # Excel dosyalarını okuyabilmek için
