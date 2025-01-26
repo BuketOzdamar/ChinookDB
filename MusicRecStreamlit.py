@@ -4,7 +4,7 @@ import streamlit as st
 # Veriyi yükleme
 df = pd.read_excel(r"C:\Users\EXCALIBUR\Desktop\Çalışmalar\Chinook_DB\Chinook\data.xlsx")
 # GitHub'dan veri dosyasını yükleyin
-url = "https://github.com/BuketOzdamar/ChinookDB/raw/main/data.xlsx"  # Raw URL
+url = "https://github.com/BuketOzdamar/ChinookDB/blob/main/data.xlsx"  # Raw URL
 df = pd.read_excel(url)
 
 def get_recommendations_with_previous_songs(customer_name, genre):
