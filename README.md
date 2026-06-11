@@ -83,8 +83,8 @@ In this visual, the selected **Genre** and **Year** filters highlight the corres
 
 # Project Structure
 
+```text
 ChinookDB/
-
 ├── ChinookDB.sql              # Database schema
 ├── DataCollection.sql         # Business analysis queries
 ├── MusicRec.ipynb             # Recommendation model development
