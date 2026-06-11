@@ -4,7 +4,7 @@
 
 An end-to-end data project built on the Chinook music store database. The project covers SQL-based business analysis, interactive Power BI dashboards, and a deployed machine learning recommendation system — combining data analysis, visualization, and deployment in a single pipeline.
 
-[Live App]: Streamlit Music Recommendation App (https://chinookdb-cx9k9otd4gbsnbqgvh5y4g.streamlit.app/)
+Live App: Streamlit Music Recommendation [App](https://chinookdb-cx9k9otd4gbsnbqgvh5y4g.streamlit.app/)
 
 
 # Motivation
@@ -16,7 +16,7 @@ This repository uses the Chinook database, which is a sample database for music 
 
 # What Was Built
 
-1. SQL Business Analysis
+# 1. SQL Business Analysis
 
 Queried the relational Chinook database to answer key business questions:
 
@@ -84,13 +84,10 @@ In this visual, the selected **Genre** and **Year** filters highlight the corres
 # Project Structure
 
 ChinookDB/
+
 ├── ChinookDB.sql              # Database schema
 ├── DataCollection.sql         # Business analysis queries
 ├── MusicRec.ipynb             # Recommendation model development
 ├── MusicRecStreamlit.py       # Streamlit app
 ├── Chinook_PowerBI.pbix       # Power BI dashboard
 └── images/                    # Dashboard screenshots
-
-
-
-
